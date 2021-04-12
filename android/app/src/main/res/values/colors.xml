@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gradientstart">#0183FA</color>
+    <color name="gradientend">#0067DF</color>
+    <color name="splashscreen_bg">#12CF81</color>
+    <color name="app_bg">#FFFFFF</color>
+</resources>

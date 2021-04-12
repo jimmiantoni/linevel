@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465530070576",
+    "project_id": "magis-b8ad8",
+    "storage_bucket": "magis-b8ad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465530070576:android:c94361e7b403455dabaff5",
+        "android_client_info": {
+          "package_name": "com.linevel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465530070576-nqgu2mer6ilmicsscalh18hi9dfntb43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linevel",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "465530070576-486j2f4iu6m89q8312olaaqld86du5ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ixUTwk0YPo7XvuRRFCU3JSbBRw-aUJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465530070576-486j2f4iu6m89q8312olaaqld86du5ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
